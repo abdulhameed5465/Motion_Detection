@@ -1,0 +1,3 @@
+2026-07-23 12:55:48  motion detected -> recordings/20260723_125548.avi
+2026-07-23 13:06:42  motion detected -> recordings/20260723_130642.avi
+
